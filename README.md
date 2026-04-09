@@ -1,6 +1,6 @@
 # ¡Hola, soy Mauricio Correa Celis! 👋
 
-## Full-Stack Software Developer | Back-end & Front-end Specialist | UI/UX Enthusiast
+## Full-Stack Software Developer | Back-end & Front-end Specialist | UI/UX Enthusiast | Data Analist
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Mauro620&label=Profile%20views&color=0e75b6&style=flat" alt="Mauro620" />
