@@ -1,27 +1,38 @@
-# ¡Hola, soy Mauricio Correa Celis! 👋
+# Hola, soy Mauricio Correa 👋
 
-## Full-Stack Software Developer | Back-end & Front-end Specialist | UI/UX Enthusiast | Data Analist
+**Backend & Data Engineer · Fintech · Medellín, Colombia**
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Mauro620&label=Profile%20views&color=0e75b6&style=flat" alt="Mauro620" />
-</p>
+Estudiante de noveno semestre de Ingeniería de Sistemas e Informática, con casi 3 años
+construyendo software en producción, principalmente en pagos y crédito. Hoy me especializo
+en ingeniería y ciencia de datos: cómo se mueven los datos, cómo se transforman y cómo se
+convierten en decisiones.
 
----
+### 🔨 Lo que he construido
+- **Paymi** — Desarrollador principal y único de una plataforma web de créditos de libranza.
+  En producción desde nov. 2025: ~2.000 usuarios y más de 8.000 créditos procesados.
+- **Kibo** — Fundador y CEO. Bot de WhatsApp + app + CRM que automatiza agendas y reservas (v1.9.0 en producción).
+- **Energía Colombia** — Integración de 8+ fuentes públicas del sector energético, modelado de datos y consultas analíticas complejas.
+- **Sentiment Streaming · Seek Predictions** — Proyectos de Big Data con Spark y modelos predictivos.
+- 🟡 **Payments Data Pipeline** — En construcción (autoestudio): PySpark → Airflow → dbt → warehouse en AWS.
 
-### 👤 Sobre mí
+### 📍 Ahora mismo
+- Profundizando en **Apache Airflow** y **Apache Spark**.
+- Curso de **Arquitectura en AWS**, con laboratorios de VPC, EC2, S3 y CloudFront.
+- **Freelance**: pipelines de datos, backends e integraciones de pagos.
 
-Soy un **Desarrollador de Software Full-Stack** dedicado, actualmente parte del equipo de **Big Denim S.A.S (Big John)**. Me apasiona crear productos digitales robustos, escalables y con una gran experiencia de usuario.
+### 🧠 Cómo trabajo
+Desarrollo asistido por IA y dirigido por criterio. Uso Claude Code como ejecutor; mi trabajo
+es entender el negocio, modelar los datos, diseñar la arquitectura y revisar cada cambio en
+seguridad, rendimiento y disponibilidad. Entiendo y reviso todo lo que se despliega.
 
-Me enfoco en el desarrollo de **extremo a extremo (full-stack)**, desde la arquitectura del backend hasta las interfaces de usuario limpias. Mis objetivos actuales son dominar patrones de diseño avanzados y mejorar la eficiencia de los flujos de colaboración de equipo.
+### 🧰 Stack
+**Uso a diario:** Python · SQL · PostgreSQL · MySQL · FastAPI · Django · Docker · Git
+**Explorando:** PySpark · Airflow · dbt · AWS
 
-* **Enfoque Actual:** Mantener y mejorar proyectos clave en FastAPI/Django Rest y React/NextJS.
-* **Intereses Técnicos:** Arquitectura limpia, Diseño de APIs REST, y gestión de repositorios corporativos.
-* **UI/UX:** Prototipado rápido y diseño de interfaces con Figma.
-* **Más allá del código:** Me fascina el proceso de optimización de flujos de trabajo en equipos de desarrollo y soy un gran fan de la automatización. En mi tiempo libre disfruto de Hacer deporte como la calistenia, futbol o senderismo al igual que la lectura y juegos competitivos.
-* **Intereses en Datos:** Apasionado por el **Big Data**, la **Ciencia de Datos** y el **Machine Learning**. Busco integrar modelos predictivos y análisis masivo de datos para resolver problemas complejos y generar valor de negocio.
-* **Tech Stack de Datos:** Explorando herramientas de procesamiento de datos y librerías de ML para potenciar el software tradicional con inteligencia artificial.
-* **Objetivo:** Especializarme en la convergencia entre el desarrollo de software de alto rendimiento y arquitecturas de datos avanzadas.
+### ⚽ Más allá del código
+Calistenia, fútbol, senderismo (casi siempre con mi perro), lectura y juegos competitivos.
 
+📫 mauro.celis620@gmail.com · [LinkedIn](https://www.linkedin.com/in/mauricio-correa-celis-bb57b7253)
 ---
 
 ### 🛠️ Tech Stack
